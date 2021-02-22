@@ -2,3 +2,5 @@
 .vscode/
 
 django_react_env/
+
+portfolio_site/frontend/node_modules/
